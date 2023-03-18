@@ -52,7 +52,7 @@ I’m a Front-End developer from Argentina ✔️
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alan-Erriu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-</td><td valign="top" width="50%">
+
 
 
 
