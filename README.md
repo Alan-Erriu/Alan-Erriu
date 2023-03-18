@@ -58,17 +58,4 @@ I’m a Front-End developer from Argentina ✔️
 
  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
+<br/>
