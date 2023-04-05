@@ -13,7 +13,7 @@
 ### About me  
 I’m a Front-End developer from Argentina ✔️  
 
-- 🌱I'm currently learning Python and Django  
+
   
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
